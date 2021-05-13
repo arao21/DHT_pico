@@ -5,7 +5,7 @@ The DHT11 sensor uses a capacitive humidity sensor and a thermistor to measure t
 Setup:
 The digital output of the DHT11 sensor was connected to GP28 on the Pico. The SDA and SCL pins of the OLED display were conencted to GP8 and GP9 on the Pico. The DHT 11 and OLED diplay were connected to ground and the 3.3V from the Pico board to complete the circuit.
 
-![circuit](https://user-images.githubusercontent.com/78379722/118066328-87bbbe00-b36c-11eb-80c2-2c1540b057d2.jpg)
+<img src="https://user-images.githubusercontent.com/78379722/118066328-87bbbe00-b36c-11eb-80c2-2c1540b057d2.jpg" width="600" height="600"> 
 
 Code for this project:
 1. SSD1306.py: contains code for the OLED display library. A SSD1306 OLED driver with I2C and SPI interfaces was used
