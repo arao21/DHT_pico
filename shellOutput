@@ -1,0 +1,31 @@
+MicroPython v1.15 on 2021-04-18; Raspberry Pi Pico with RP2040
+Type "help()" for more information.
+>>> %Run -c $EDITOR_CONTENT
+
+I2C Address      : 0X3C
+I2C Configuration: I2C(0, freq=200000, scl=9, sda=8)
+
+Temperature: 73.4
+Humidity: 49.0
+Temperature: 72.14
+Humidity: 50.0
+Temperature: 72.32
+Humidity: 50.0
+Temperature: 72.14
+Humidity: 50.0
+Temperature: 72.32
+Humidity: 50.0
+Temperature: 72.32
+Humidity: 50.0
+Temperature: 72.32
+Humidity: 51.0
+Temperature: 72.32
+Humidity: 52.0
+Temperature: 72.68
+Humidity: 53.0
+Temperature: 72.68
+Humidity: 54.0
+Temperature: 73.04
+Humidity: 54.0
+Temperature: 73.22
+Humidity: 54.0
